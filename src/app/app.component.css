@@ -1,0 +1,28 @@
+
+ul, li {
+  display: inline-block;
+}
+
+.disabled {
+  cursor: no-drop;
+  pointer-events: none;
+}
+
+.parent {
+  border: 1px solid;
+  /* height: 550px; */
+  overflow: scroll;
+}
+
+.valid {
+  border: 3px solid green;
+}
+
+.invalid {
+  border: 3px solid red;
+}
+
+p {
+  font-size: 13px;
+  color: red;
+}
