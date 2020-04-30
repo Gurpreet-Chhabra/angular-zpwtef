@@ -18,7 +18,7 @@
     "bootstrap": "4.3.1",
     "chart.js": "^2.8.0",
     "core-js": "2.6.9",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "lodash": "4.17.15",
     "moment": "2.20.1",
     "popper.js": "1.15.0",
